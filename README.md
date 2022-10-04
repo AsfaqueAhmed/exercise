@@ -8,8 +8,18 @@
 
 - Screenshots:
 
-- ![Screenshot](screenshots/screenshot1.png)
-- ![Screenshot](screenshots/screenshot2.png)
-- ![Screenshot](screenshots/screenshot3.png)
-- ![Screenshot](screenshots/screenshot4.png)
-- ![Screenshot](screenshots/screenshot5.png)
+
+- Sign In Screen
+![Screenshot](screenshots/screenshot1.png)
+
+- Sign Up Screen
+![Screenshot](screenshots/screenshot2.png)
+
+- Email List
+![Screenshot](screenshots/screenshot3.png)
+
+- Logout confirmation
+![Screenshot](screenshots/screenshot4.png)
+
+- Email Details
+![Screenshot](screenshots/screenshot5.png)
